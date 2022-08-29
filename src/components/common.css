@@ -1,0 +1,55 @@
+.main{
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+}
+.sub{
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid brown;
+    border-radius: 20px;
+}
+.ssub{
+    margin: 5px;
+    padding: 5px;
+    background-image: linear-gradient(red, yellow);
+    border: 3px solid darkgreen;
+    color: #ffffff;
+}
+.txt{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.txt2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    height: 260px;
+    position: relative;
+    top: 80px;
+}
+.img{
+
+border-radius: 50%;
+height: 245px;
+width: 200px;
+
+}
+.heading{
+     border: solid 5px black;
+     text-align: center;
+     margin-left: 500px;
+     margin-right:500px ;
+     background-color: green;
+     border-radius: 20px;
+     padding: 20px;
+     position: relative;
+     right: 500px;
+     
+
+}
+
